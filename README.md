@@ -5,7 +5,7 @@
 ### Sabit Shaiholla 
 
 + Experience: 
-    - June 2022 - Now: Senior System Analyst, Kcell JSC (Almaty, Kazakhstan)
+    - Jun 2022 - Now: Senior System Analyst, Kcell JSC (Almaty, Kazakhstan)
     - Sep 2021 - May 2022: System Analyst, Kcell JSC (Almaty, Kazakhstan)
     - Mar 2020 - Jun 2021: Graduate Research Assistant, Nazarbayev University (Astana, Kazakhstan)
     - May 2017 - Sep 2017: Junior Software Engineer, "Smart-House" LLP (Astana, Kazakhstan)
