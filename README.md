@@ -32,7 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabit-shaiholla&layout=compact)](https://github.com/sabit-shaiholla/github-readme-stats)
 
 Contact:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabit-shaiholla/)](https://www.linkedin.com/in/sabit-shaiholla/)
 [![Linkedin: sabit-shaiholla](https://img.shields.io/badge/-Sabit%20Shaiholla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabit-shaiholla/)](https://www.linkedin.com/in/sabit-shaiholla/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabit.shaiholla@nu.edu.kz)](mailto:sabit.shaiholla@nu.edu.kz)
 ![Profile views](https://gpvc.arturio.dev/sabit-shaiholla)
