@@ -34,6 +34,6 @@ Contact:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabit.shaiholla@nu.edu.kz)](mailto:sabit.shaiholla@nu.edu.kz)
 ![Profile views](https://gpvc.arturio.dev/sabit-shaiholla)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabit-shaiholla&layout=compact)](https://github.com/sabit-shaiholla/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabit-shaiholla&layout=compact)](https://github.com/sabit-shaiholla/github-readme-stats)
 
-![Sabit Shaiholla's github stats](https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&show_icons=true&hide_border=true)
+![Sabit Shaiholla's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sabit-shaiholla&show_icons=true&hide_border=true)
