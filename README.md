@@ -5,7 +5,8 @@
 ### Sabit Shaiholla 
 
 + Experience: 
-    - Jul 2022 - Now: System Analyst Team Lead, Kcell JSC (Almaty, Kazakhstan)
+    - Apr 2023 - Now: Business Analyst, Netcracker Technology (Almaty, Kazakhstan)
+    - Jul 2022 - Apr 2023: System Analyst Team Lead, Kcell JSC (Almaty, Kazakhstan)
     - Jun 2022 - Jul 2022: Senior System Analyst, Kcell JSC (Almaty, Kazakhstan)
     - Sep 2021 - May 2022: System Analyst, Kcell JSC (Almaty, Kazakhstan)
     - Mar 2020 - Jun 2021: Graduate Research Assistant, Nazarbayev University (Astana, Kazakhstan)
