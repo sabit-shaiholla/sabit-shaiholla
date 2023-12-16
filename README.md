@@ -1,8 +1,7 @@
 ## Welcome!
 
-<!--
-**sabit-shaiholla/sabit-shaiholla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Sabit Shaiholla 
+<!--**sabit-shaiholla/sabit-shaiholla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Sabit Shaiholla
 
 + Experience: 
     - Apr 2023 - Now: Business Systems Analyst, Netcracker Technology (Almaty, Kazakhstan)
@@ -33,8 +32,13 @@
 Contact:
 [![Linkedin: sabit-shaiholla](https://img.shields.io/badge/-Sabit%20Shaiholla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabit-shaiholla/)](https://www.linkedin.com/in/sabit-shaiholla/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabit.shaiholla@nu.edu.kz)](mailto:sabit.shaiholla@nu.edu.kz)
-![Profile views](https://gpvc.arturio.dev/sabit-shaiholla)
+![Profile views](https://komarev.com/ghpvc/?username=sabit-shaiholla)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabit-shaiholla&layout=compact)](https://github.com/sabit-shaiholla/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabit-shaiholla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
+</p>
 
-![Sabit Shaiholla's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sabit-shaiholla&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user='sabit-shaiholla'&theme=github-dark-blue&hide_border=true&stroke=0000&ring=e95d01&fire=e95d01&currStreakLabel=e95d01" alt="sabit-shaiholla" />
+</p>
