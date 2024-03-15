@@ -36,7 +36,7 @@ Contact:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabit-shaiholla&hide=jupyter-notebook,css,html,ruby,javascript&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabit-shaiholla&hide=jupyter%20notebook,css,html,ruby,javascript&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
 </p>
 
 <p align="center">
