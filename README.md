@@ -1,6 +1,6 @@
 # Hi there, I'm Sabit Shaiholla 👋
 
-I'm a passionate software engineer with a strong focus on systems analysis, optimization, and data analytics. With a proven track record of leading teams and delivering high-impact projects, I thrive in dynamic and challenging environments. Below are some highlights of my key projects and expertise.
+I'm a passionate Software Engineer with a strong focus on systems analysis, optimization, and data analytics. With a proven track record of leading teams and delivering high-impact projects, I thrive in dynamic and challenging environments. Below are some highlights of my key projects and expertise.
 
 ## 🌟 Projects
 ### [Football Oracle: AI-Powered Player Analytics Tool](https://github.com/sabit-shaiholla/football-oracle)
