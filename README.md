@@ -78,13 +78,13 @@ I am a passionate engineer with a strong background in **Systems Engineering**, 
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&show_icons=true&theme=radical&hide_border=true" alt="Sabit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabit-shaiholla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabit-shaiholla&hide=jupyter%20notebook,css,html,ruby,javascript,ejs&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user='sabit-shaiholla'&theme=github-dark-blue&hide_border=true&stroke=0000&ring=e95d01&fire=e95d01&currStreakLabel=e95d01" alt="sabit-shaiholla" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabit-shaiholla&theme=github-dark-blue&hide_border=true&stroke=0000&ring=e95d01&fire=e95d01&currStreakLabel=e95d01" alt="sabit-shaiholla" />
 </p>
 
 ---
@@ -101,5 +101,5 @@ I am a passionate engineer with a strong background in **Systems Engineering**, 
   <a href="mailto:saba.shaiholla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=sabit-shaiholla" alt="Profile Views" />
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=sabit-shaiholla)
