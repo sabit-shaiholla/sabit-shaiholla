@@ -1,99 +1,97 @@
-# Hi there, I'm Sabit Shaiholla 👋
+# Sabit Shaiholla
 
-### Systems & Software & ML/AI Engineer
+**AI/LLM Engineer · Forward Deployed Engineer**
 
-I am a passionate engineer with a strong background in **Systems Engineering**, **Software Development**, and **ML/AI Engineering**. I craft cutting-edge solutions to propel businesses forward, ranging from AI-powered analytics tools to robust microservices architectures. Check out my [Personal Website](https://sabit-shaiholla.github.io).
+Almaty, Kazakhstan · [sabit-shaiholla.github.io](https://sabit-shaiholla.github.io) · [LinkedIn](https://www.linkedin.com/in/sabit-shaiholla/) · [saba.shaiholla@gmail.com](mailto:saba.shaiholla@gmail.com)
 
----
+On the work side I've built enterprise RAG over internal knowledge: 100+ code repositories, 1000+ Confluence pages and 5000+ internal documents, most of it scanned PDFs and badly formatted DOCX where top-k retrieval breaks down. The pipeline runs an automated RAGAS evaluation loop (faithfulness 0.89, answer relevance 0.92 on a 15K-query benchmark), and for the messy-document part I use agents that decide what to read themselves instead of trusting nearest-neighbour search.
 
-## 🛠️ Tech Stack
+On the serving side: deployed Kimi-K2.6 on-premise with SGLang (MoE, 100+ tokens/sec throughput, 52% lower TTFT than baseline) and GPT-OSS 120B with vLLM. Also built a marketplace for AI agent skills on APM (Agent Package Manager) — skills as installable packages with versions and dependency resolution, instead of being copied between projects by hand.
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
+Background: Spring Boot microservices, event-driven backends, edge/IoT systems, plus a stretch leading a team of 10 on platforms with 3M+ MAU. A lot of my work is customer-facing — working out what they actually need before anything gets built.
 
-### Web & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-</p>
-
-### Data & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Kubeflow-005571?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker" />
-  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-  <br />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-</p>
-
-### DevOps & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Google Cloud" />
-  <br />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
-  <img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" alt="Graylog" />
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/LangFuse-000000?style=for-the-badge" alt="LangFuse" />
-</p>
-
-### Architecture & Messaging
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <br />
-  <img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Monolith-181717?style=for-the-badge" alt="Monolith" />
-  <img src="https://img.shields.io/badge/BPMN-181717?style=for-the-badge" alt="BPMN" />
-  <img src="https://img.shields.io/badge/UML-181717?style=for-the-badge" alt="UML" />
-</p>
+Code here, reasoning on [my site](https://sabit-shaiholla.github.io/portfolio/).
 
 ---
 
-## 📈 GitHub Stats
+## Currently
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabit-shaiholla&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabit-shaiholla&hide=jupyter%20notebook,css,html,ruby,javascript,ejs&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="sabit-shaiholla" align = "center"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabit-shaiholla&theme=github-dark-blue&hide_border=true&stroke=0000&ring=e95d01&fire=e95d01&currStreakLabel=e95d01" alt="sabit-shaiholla" />
-</p>
+- Agentic document search on Google ADK + Gemini 3 Flash: the agent navigates files with tools instead of an embedding index.
+- Evaluation in the loop: OpenEvals graders as agent reflection steps, groundedness scoring, self-correcting retrieval. Posts on both below.
 
 ---
 
-## 🌐 Connect with Me
+## Selected work
 
-<p align="left">
-  <a href="https://sabit-shaiholla.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/sabit-shaiholla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saba.shaiholla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sabit-shaiholla" alt="Profile Views" />
-</p>
+### [Agentic File Query](https://github.com/sabit-shaiholla/agentic-file-query) · [write-up](https://sabit-shaiholla.github.io/portfolio/agentic-file-query/)
+
+An agent that explores a document folder itself rather than trusting nearest-neighbour search on pre-embedded chunks. It runs a Scan → Deep Dive → Backtrack loop over nine filesystem and vector tools (`scan_folder`, `grep_search`, `semantic_search`, `parse_file`, …), so it can follow references and retry when retrieval misses something.
+
+`Google ADK` · `Gemini 3 Flash` · `Docling` · `pgvector` / `DuckDB` · `FastAPI`
+
+### [Corrective RAG + OpenEvals](https://github.com/sabit-shaiholla/corrective-rag-openevals) · [write-up](https://sabit-shaiholla.github.io/portfolio/corrective-rag-openevals/)
+
+RAG pipeline that grades every retrieved document for relevance before using it. The score routes the agent into Correct / Incorrect / Ambiguous branches, falling back to web search if nothing passes the threshold. OpenEvals graders run inside the agent loop as reflection steps, not just offline tests.
+
+`LangGraph` · `Gemini 2.5 Flash` · `Ollama` (Qwen 2.5 7B) · `OpenEvals` · `Tavily`
+
+### [Gemini File Search Tool](https://github.com/sabit-shaiholla/gemini-api-file-search-tool) · [live demo](https://filequerysystem.duckdns.org/) · [write-up](https://sabit-shaiholla.github.io/portfolio/gemini-api-file-search-tool/)
+
+Managed RAG end to end: upload a PDF, get answers with grounding metadata pointing at source chunks. Runs on an Oracle Cloud always-free instance behind Nginx + Let's Encrypt, with CI pushing releases. Setup documented [step by step](https://sabit-shaiholla.github.io/portfolio/oracle-cloud-setup-gemini-tool/).
+
+`Gemini File Search API` · `Streamlit` · `Nginx` · `GitHub Actions`
+
+### Agent Skill Marketplace, on APM
+
+Marketplace for AI agent skills built on APM (Agent Package Manager): skills as packages you can install, with versions and dependency resolution. Not public, no repo to link.
+
+`Agent Package Manager` · `Python`
+
+### [Premier League Match Prediction](https://github.com/sabit-shaiholla/pl-football)
+
+Selenium scraper that gets past FBREF's 403s, 584 engineered features across 17 statistical categories, six seasons of matches. Reaches 61.2% test accuracy on three-way Win/Draw/Loss against a 33.3% baseline. The scraper broke after OPTA removed the advanced tables in Jan 2026, but the datasets are in the repo, so the modelling still runs.
+
+`Python` · `scikit-learn` · `Selenium` · `pandas`
+
+<details>
+<summary><b>More</b></summary>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [iot-edge-latency](https://github.com/sabit-shaiholla/iot-edge-latency) | Measures latency and QoS trade-offs across Raspberry Pi, EC2, local VM, and AWS Greengrass nodes using Aruco-marker video as ground truth | Python, OpenCV, AWS Greengrass, MQTT |
+| [ecommerce-microservices](https://github.com/sabit-shaiholla/ecommerce-microservices) | Event-driven e-commerce platform: service discovery, distributed tracing, Keycloak auth | Spring Boot, Kafka, Eureka, Zipkin, Keycloak |
+| [football-oracle](https://github.com/sabit-shaiholla/football-oracle) | AI-driven player analytics with JWT auth, generated reports, and SonarQube in CI | Spring Boot, React, PostgreSQL, Vertex AI |
+| [ai-llm-tutorials](https://github.com/sabit-shaiholla/ai-llm-tutorials) | Hands-on notebooks working through LLM mechanics and RAG patterns | Python, Jupyter |
+
+</details>
+
+---
+
+## Writing
+
+<!-- BLOG-POST-LIST:START -->
+- **[Beyond RAG: Building an AI Agent That Explores Documents Like a Human Researcher](https://sabit-shaiholla.github.io/portfolio/agentic-file-query/)** <sub>Feb 2026</sub>
+- **[How I Setup Oracle Cloud Always Free Instance for Gemini API File Search Tool](https://sabit-shaiholla.github.io/portfolio/oracle-cloud-setup-gemini-tool/)** <sub>Nov 2025</sub>
+- **[Revolutionizing RAG: Why Gemini File Search Tool is the great RAG-as-a-Service](https://sabit-shaiholla.github.io/portfolio/gemini-api-file-search-tool/)** <sub>Nov 2025</sub>
+- **[Enhancing LLM Agent Reliability with Corrective RAG and OpenEvals](https://sabit-shaiholla.github.io/portfolio/corrective-rag-openevals/)** <sub>May 2025</sub>
+<!-- BLOG-POST-LIST:END -->
+
+→ [All posts](https://sabit-shaiholla.github.io/portfolio/) · [TIL notes](https://sabit-shaiholla.github.io/til/) · [RSS](https://sabit-shaiholla.github.io/index.xml)
+
+---
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | Python · Java · Go |
+| **AI / LLM** | Google ADK · LangChain · LangGraph · Pydantic-AI · PyTorch · Vertex AI · SageMaker · Gemini API |
+| **Model serving** | vLLM · SGLang · self-hosted inference (embeddings → 120B) |
+| **LLM Ops** | OpenEvals · LangSmith · Langfuse · MLflow · Kubeflow |
+| **Backend** | Spring Boot · Quarkus · FastAPI · gRPC · GraphQL |
+| **Data & Messaging** | Kafka · RabbitMQ · Spark · PostgreSQL · pgvector · DuckDB · Elasticsearch |
+| **Platform** | Docker · Kubernetes · AWS · GCP · Azure · Oracle Cloud · GitHub Actions · Grafana |
+
+---
+
+<sub>Open to AI/LLM and forward-deployed engineering roles. Email is fastest: [saba.shaiholla@gmail.com](mailto:saba.shaiholla@gmail.com).</sub>
