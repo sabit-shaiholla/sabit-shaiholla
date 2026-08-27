@@ -2,7 +2,7 @@
 
 **AI/LLM Engineer · Forward Deployed Engineer**
 
-Almaty, Kazakhstan · [sabit-shaiholla.github.io](https://sabit-shaikholla.github.io) · [LinkedIn](https://www.linkedin.com/in/sabit-shaikholla/) · [saba.shaiholla@gmail.com](mailto:saba.shaiholla@gmail.com)
+Almaty, Kazakhstan · [sabit-shaikholla.github.io](https://sabit-shaikholla.github.io) · [LinkedIn](https://www.linkedin.com/in/sabit-shaikholla/) · [saba.shaiholla@gmail.com](mailto:saba.shaiholla@gmail.com)
 
 On the work side I've built enterprise RAG over internal knowledge: 100+ code repositories, 1000+ Confluence pages and 5000+ internal documents, most of it scanned PDFs and badly formatted DOCX where top-k retrieval breaks down. The pipeline runs an automated RAGAS evaluation loop (faithfulness 0.89, answer relevance 0.92 on a 15K-query benchmark), and for the messy-document part I use agents that decide what to read themselves instead of trusting nearest-neighbour search.
 
